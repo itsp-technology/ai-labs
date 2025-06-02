@@ -3,6 +3,12 @@
 ![ScreenShot](/img/timer-app.png)
 
 ```
+copy this url in the browser 
+
+https://claude.ai/public/artifacts/1adb3a74-f7f9-40e2-95b8-5fa882b7d7af?fullscreen=true
+```
+
+```
 
 
 
