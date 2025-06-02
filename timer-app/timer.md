@@ -1,4 +1,4 @@
-###This is timer app code
+##This is timer app code
 
 ![ScreenShot](/img/timer-app.png)
 
